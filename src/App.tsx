@@ -146,7 +146,7 @@ function App() {
               </button>
               
               <a
-                href="https://github.com"
+                href="https://github.com/thepersonilike13/QA-chatbot"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 bg-slate-900 text-white rounded-lg hover:bg-slate-800 transition-all duration-200 group"
